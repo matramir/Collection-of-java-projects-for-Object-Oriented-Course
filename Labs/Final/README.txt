@@ -1,0 +1,3 @@
+The main objective of the final exam exercise was to generate a graphical interface application that allowed the user to calculate the registration costs of enroling in a course.
+The project contains 3 classes: (1) MyApp wich contains the main method, (2) MyGui which contains the methods that generate the GUI of the application, and (3) Registration which contains the calculation methods of the application.
+The folder contains the project files and an executable .JAR file.
